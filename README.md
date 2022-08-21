@@ -38,7 +38,9 @@ The stick model is like the bones model of the robot
 <br/> ![alt text](https://github.com/Maashn5/Bearing-stick-model/blob/main/stick%20model/Joint2_before.png)
 <br/> by moving the leg 
 <br/> ![alt text](https://github.com/Maashn5/Bearing-stick-model/blob/main/stick%20model/Tilted.png)
-<br/> then recording the angle again
+<br/> then recording the angle again 
 <br/> ![alt text](https://github.com/Maashn5/Bearing-stick-model/blob/main/stick%20model/Joint0_after.png)
 <br/> ![alt text](https://github.com/Maashn5/Bearing-stick-model/blob/main/stick%20model/Joint1_after.png)
 <br/> ![alt text](https://github.com/Maashn5/Bearing-stick-model/blob/main/stick%20model/Joint2_after.png)
+<br/> by getting the difference
+<br/> the angle for: joint0 is 19.937 , joint1 is 1.358 , joint2 is 13.388
