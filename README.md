@@ -9,7 +9,7 @@ The main purpose of the bearing is to reduce the friction between the joint serf
 <br/> ![alt text](https://koyo.jtekt.co.jp/en/uploads/column01_03_02.png)
 <br/> Here is the design of 18 roller bearing (no need for a cage)
 ### The design of the inner race 
-<br/> The inner race was a simple tube with ( hight=20mm , inner radius=25mm , outter radius=50mm)
+<br/> The inner race is a simple tube with ( hight=20mm , inner radius=25mm , outter radius=50mm)
 <br/> The main challenge was the rollers locations 
 <br/> one methd is by using the cloner object
 <br/> second method by showing the tube segments & locate it manually 
@@ -19,5 +19,13 @@ The main purpose of the bearing is to reduce the friction between the joint serf
 <br/> Then by creating a cylinder with ( radius=8mm , hight=16mm ) & by using the boole object we can create the hollow for the rollers
 <br/> [The stl file for the inner race](https://github.com/Maashn5/Bearing-stick-model/blob/main/bearing/inner%20race%20(ring).stl)
 ### The design of the roller
+<br/> The roller is a simple cylinder with ( radius=7.5mm , hight=16mm )
+<br/> But with booling some of the top & bottom surfaces to minimize the friction 
+<br/> [The stl file for the roller](https://github.com/Maashn5/Bearing-stick-model/blob/main/bearing/roller.stl)
 ### The design of the outter race
+<br/> The outter race is a simple tube with ( hight=20mm , inner radius=56.5mm , outter radius=62mm)
+<br/> [The stl file for the outter race](https://github.com/Maashn5/Bearing-stick-model/blob/main/bearing/outter%20race%20(ring).stl)
+### The final bearing
+<br/> By assembling all of the above we have the bearing we neef
+<br/> [The stl file for the bearing](https://github.com/Maashn5/Bearing-stick-model/blob/main/bearing/%E2%80%8F%E2%80%8F%E2%80%8F%E2%80%8Fbearing.stl)
 ## Stick model
