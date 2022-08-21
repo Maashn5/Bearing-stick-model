@@ -26,6 +26,19 @@ The main purpose of the bearing is to reduce the friction between the joint serf
 <br/> The outter race is a simple tube with ( hight=20mm , inner radius=56.5mm , outter radius=62mm)
 <br/> [The stl file for the outter race](https://github.com/Maashn5/Bearing-stick-model/blob/main/bearing/outter%20race%20(ring).stl)
 ### The final bearing
-<br/> By assembling all of the above we have the bearing we neef
+<br/> By assembling all of the above we have the bearing we need
 <br/> [The stl file for the bearing](https://github.com/Maashn5/Bearing-stick-model/blob/main/bearing/%E2%80%8F%E2%80%8F%E2%80%8F%E2%80%8Fbearing.stl)
 ## Stick model
+The stick model is like the bones model of the robot
+<br/> [The stl file for the stick model](https://github.com/Maashn5/Bearing-stick-model/blob/main/stick%20model/stick%20model.stl)
+<br/> We can figure out the angles of the joints by the joint tool 
+<br/> by recording the angles before moving the leg 
+<br/> ![alt text](https://github.com/Maashn5/Bearing-stick-model/blob/main/stick%20model/Joint0_before.png)
+<br/> ![alt text](https://github.com/Maashn5/Bearing-stick-model/blob/main/stick%20model/Joint1_before.png)
+<br/> ![alt text](https://github.com/Maashn5/Bearing-stick-model/blob/main/stick%20model/Joint2_before.png)
+<br/> by moving the leg 
+<br/> ![alt text](https://github.com/Maashn5/Bearing-stick-model/blob/main/stick%20model/Tilted.png)
+<br/> then recording the angle again
+<br/> ![alt text](https://github.com/Maashn5/Bearing-stick-model/blob/main/stick%20model/Joint0_after.png)
+<br/> ![alt text](https://github.com/Maashn5/Bearing-stick-model/blob/main/stick%20model/Joint1_after.png)
+<br/> ![alt text](https://github.com/Maashn5/Bearing-stick-model/blob/main/stick%20model/Joint2_after.png)
